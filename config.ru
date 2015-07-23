@@ -1,2 +1,2 @@
 require './app'  # syncing our app.rb file
-run sinatra::Application   # runs sinatra
+run Sinatra::Application   # runs sinatra, capitalize "S"
